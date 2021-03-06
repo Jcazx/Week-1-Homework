@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
   }
-  /*  */
+  /* background colour */
   body {
     background-color: #d9dcd6;
   }
-  
+   /* header */
   .header {
     padding: 20px;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -24,7 +24,7 @@
   .header h1 .seo {
     color: #d9dcd6;
   }
-  
+   /* navbar */
   .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -70,6 +70,7 @@
     margin-left: 25px;
   }
   
+   /* main section */
   .content {
     width: 75%;
     display: inline-block;
@@ -124,7 +125,8 @@
     margin-bottom: 20px;
     font-size: 36px;
   }
-  
+
+   /*  footer */
   .footer {
     padding: 30px;
     clear: both;
