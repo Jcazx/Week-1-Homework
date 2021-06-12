@@ -1,5 +1,7 @@
 # Week-1-Homework
 
+Click (here)[https://jcazx.github.io/Week-1-Homework/] to view the deployed application
+
 
 The aim of this project was to work to refactor an existing site (HTML + CSS) to make it more accessible, to amend errors within the CSS + HTML, and to generally tidy up the code.
 
